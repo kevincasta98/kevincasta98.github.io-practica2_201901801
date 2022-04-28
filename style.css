@@ -1,0 +1,14 @@
+.items {
+    align-items: center;
+    color: yellowgreen;
+    background-color: black;
+    margin: 10px;
+    padding-left: 20px;
+
+}
+.container  {
+    display: grid;
+    grid-template-columns: 300px 300px;
+    grid-template-rows: 100 px ;
+    gap: 100px;
+}
